@@ -7,7 +7,8 @@ I'm a fullstack Developer, recently i'm focus and try to grind my skills on Kotl
 - 📚 Love to learn & share thing about code.
 - 🎯 Available on market job.
 - 💬 Get it touch
-- 
+
+>***Before being a profession, it's a passion.***
 
 ### 🛠️ Languages and  Tools:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="30" height="30"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="30" height="30"/>
