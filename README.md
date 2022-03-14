@@ -3,7 +3,7 @@ This is a place where i do stuff and project i want to do.❤️‍🔥\
 I'm a fullstack Developer, recently i'm focus and try to grind my skills on Kotlin/Android project
 
 
-- 💻 Currently working on a personal project with Kotlin.
+- 💻 Currently working on a personal project in Kotlin.
 - 📚 Love to learn & share thing about code.
 - 🎯 Available on market job.
 - 💬 Get it touch
