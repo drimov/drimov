@@ -3,7 +3,7 @@ This is a place where i do stuff and project i want to do.❤️‍🔥\
 I'm a React Developer, recently i'm focus on Next-Js eco-system.
 
 
-- 💻 Currently working on a school booster project in React.
+- 💻 Currently freelancing on React development.
 - 📚 Love to learn & share thing about code.
 - 🎯 Available on market job.
 - 💬 Get it touch
